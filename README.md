@@ -12,7 +12,7 @@ Groupie-tracker est un site pour les fans de musique, permettant de voir toutes 
 
 L'installation est simple, il suffit de cloner le répertoire git en faisant la commande :
 ```bash
-https://git.ytrack.learn.ynov.com/LGRAND-MORCEL/groupie-tracker.git
+git clone https://github.com/pvayssier/groupie-tracker.git
 ```
 Et d'ensuite aller dans le fichier `GROUPIE-TRACKER` et faire :
 ```bash
